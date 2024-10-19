@@ -1,0 +1,6 @@
+#head1 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: tomato;
+}
