@@ -4,3 +4,19 @@
     background-color: black;
     color: tomato;
 }
+.makeitgood {
+    font-family: 'poppins', sans-serif;
+    font-size: 100px;
+    background-image: linear-gradient(43deg, #263478 0%, #C850C0 46%, #FFCC70 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    background-color: black;
+
+}
+
+#imagefit {
+    display: flex;
+    justify-content: center;
+    
+}
